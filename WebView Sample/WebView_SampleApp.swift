@@ -11,7 +11,7 @@ import SwiftUI
 struct WebView_SampleApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
